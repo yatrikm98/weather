@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  background: url('./sea.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: hidden;
+}
+
+img {
+  height: 100vh;
+  width: 100vw;
+  z-index: 1;
+}
+
+.latLong {
+  z-index: 2;
+}
+
+.mainDivWeather {
+  margin: 7rem 15rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.common{
+  font-size: 1.5rem;
+  padding: 0.3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 2rem;
+}
+
+@media screen and (max-width: 663px) {
+  .mainDiv1 {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+  .mainDivWeather{
+      margin: 2rem;
+  }
+}
