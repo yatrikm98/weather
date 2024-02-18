@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weatherHome/static/css/main.80f418d7.css",
+    "main.js": "/weatherHome/static/js/main.08dcecb9.js",
+    "static/js/453.97127cc3.chunk.js": "/weatherHome/static/js/453.97127cc3.chunk.js",
+    "static/media/sea.jpg": "/weatherHome/static/media/sea.6fa7c7d22c44faa39e92.jpg",
+    "index.html": "/weatherHome/index.html",
+    "main.80f418d7.css.map": "/weatherHome/static/css/main.80f418d7.css.map",
+    "main.08dcecb9.js.map": "/weatherHome/static/js/main.08dcecb9.js.map",
+    "453.97127cc3.chunk.js.map": "/weatherHome/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f418d7.css",
+    "static/js/main.08dcecb9.js"
+  ]
+}
